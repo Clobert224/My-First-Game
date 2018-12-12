@@ -349,6 +349,14 @@
                 "resourcePath": "sounds\\title\\title.yy",
                 "resourceType": "GMSound"
             }
+        },
+        {
+            "Key": "ffed17ce-6b20-48c5-827a-3bd7437ed787",
+            "Value": {
+                "id": "2563c9ec-6ea3-48a5-88c3-4544b314f94a",
+                "resourcePath": "sprites\\clone\\clone.yy",
+                "resourceType": "GMSprite"
+            }
         }
     ],
     "script_order": [
