@@ -32,10 +32,10 @@ if (l75004513_0)
 		/// @DnDParent : 52FBA722
 		/// @DnDArgument : "xpos" "x"
 		/// @DnDArgument : "ypos" "y"
-		/// @DnDArgument : "objectid" "bullet"
+		/// @DnDArgument : "objectid" "obj_player_bullet"
 		/// @DnDArgument : "layer" ""layer_bullet""
-		/// @DnDSaveInfo : "objectid" "92722d79-cd31-48c9-9a71-4fc5a06beef0"
-		instance_create_layer(x, y, "layer_bullet", bullet);
+		/// @DnDSaveInfo : "objectid" "1a220c49-7f7e-4aca-b69e-63071d38ec89"
+		instance_create_layer(x, y, "layer_bullet", obj_player_bullet);
 	
 		/// @DnDAction : YoYo Games.Common.Variable
 		/// @DnDVersion : 1
